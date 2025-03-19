@@ -117,7 +117,7 @@ class Game {
 //             }
         })
     }
-
+//
     resetGame() {
         this.score = 0;
         this.timer = 0;
